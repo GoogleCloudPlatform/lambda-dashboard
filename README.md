@@ -32,7 +32,7 @@ Now it's ready to use with Fluentd and/or BigQuery.
 
 To use the spreadsheet with Fluentd and Norikra for real-time analytics, follow the instruction below.
 
-1. Select `Publish` - `Deploy as web app...`
+1. On the Script editor, select `Publish` - `Deploy as web app...`
 1. On the `Deploy as web app` dialog, enter `1` in the `Project version` field and click `Save New Version`, select `Anyone, even anonymous` on the `Who has access to the app` menu, and click `Deploy` button
 1. Select the `Current web app URL`. This is the endpoint URL for receiving event logs from Fluentd. Copy and paste the URL to clipboard or anywhere to use it later
 1. Select `Run` - `doPost` menu, click `Continue` button of the `Authorization Required` dialog and click `Accept` button on the `Request for Permission` dialog
